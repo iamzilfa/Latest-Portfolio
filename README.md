@@ -18,7 +18,7 @@
 
 
 ## Support and contact details
-If anyone need support concerning my app or anything related, just reach out to zilcyam@gmail.com
+If anyone needs support concerning my app or anything related, just reach out to zilcyam@gmail.com
  
 <!-- [Here is the Link](  https://zilfanyungwe.herokuapp.com/ "The Beauty Of Nyungwe Forest") -->
 
