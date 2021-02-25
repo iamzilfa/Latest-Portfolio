@@ -14,7 +14,7 @@
 
 ## Known Bugs
 
-* The contact form is operational
+* The contact form is not operational
 
 
 ## Support and contact details
@@ -24,4 +24,4 @@ If anyone need support concerning my app or anything related, just reach out to 
 
 ### License
 
-Copyright (c) 2021 **Zilfa Cyamani**
+Copyright (c) 2021 **Zilfa CYAMANI**
