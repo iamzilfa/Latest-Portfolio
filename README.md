@@ -8,9 +8,9 @@
 ## Technologies Used
 * HTML5
 * CSS3
-* JQUERY
-* BOOTSTRAP4
-* MARKDOWN
+* JavaScript
+* Bootstrap4
+* Markdown
 
 ## Known Bugs
 
