@@ -24,4 +24,4 @@ If anyone needs support concerning my app or anything related, just reach out to
 
 ### License
 
-Copyright (c) 2021 **Zilfa CYAMANI**
+Copyright (c) 2021 **CYAMANI Zilfa**
